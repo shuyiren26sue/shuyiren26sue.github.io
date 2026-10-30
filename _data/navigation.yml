@@ -12,19 +12,19 @@ main:
     url: /    
 
   - title: "Research"
-    url: /Research/    
+    url: /research/    
 
   - title: "Publications"
-    url: /Publications/
+    url: /publications/
     
   - title: "Teaching"
     url: /portfolio/
         
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
     
   - title: "CV"
     url: /cv/
     
   - title: "Find Me"
-    url: /FindMe/
+    url: /findme/
