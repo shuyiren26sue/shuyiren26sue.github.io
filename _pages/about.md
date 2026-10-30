@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Postdoctoral Researcher at the Division of Communication Systems, Department of Electrical Engineering (ISY), Linköping University, Sweden, working with Prof. Erik G. Larsson and Prof. Nicolò Michelusi.
+I am a Postdoctoral Researcher at the Division of Communication Systems, Department of Electrical Engineering (ISY), Linköping University, Sweden, working with Prof. Erik G. Larsson, Prof. Zheng Chen and Prof. Nicolò Michelusi.
 
 My research lies at the intersection of optimization, distributed algorithms, and wireless communications. I am particularly interested in the design and theoretical analysis of communication-efficient algorithms for networked systems, with an emphasis on resource constraints, convergence guarantees, and practical applications.
 
