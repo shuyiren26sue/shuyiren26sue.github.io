@@ -18,13 +18,10 @@ main:
     url: /publications/
     
   - title: "Teaching"
-    url: /portfolio/
+    url: /teaching/
         
   - title: "Projects"
     url: /projects/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Find Me"
-    url: /findme/
