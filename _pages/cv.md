@@ -1,64 +1,41 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+[Download Full Academic CV (PDF)](/files/Shuyi_Ren_Academic_CV.pdf){: .btn .btn--primary }
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Academic Appointments
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Postdoctoral Researcher**  
+Linköping University, Sweden  
+February 2025 – Present
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research in wireless communications and decentralized optimization.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Ph.D. in Computer and Information Engineering**  
+The Chinese University of Hong Kong, Shenzhen  
+Awarded November 2024
+
+Advisor: Prof. Zhi-Quan (Tom) Luo
+
+**B.Sc. in Mathematical Sciences**  
+Tongji University, China  
+2018
+
+## Research Expertise
+
+- Decentralized Optimization and Distributed Algorithms
+- Wireless Communications and Intelligent Reflecting Surfaces
+- Distributed Consensus and Network Design
+- Decentralized Machine Learning
+
+## Publications and Academic Activities
+
+For my research publications, please visit the [Publications](/publications/) page.
+
+My full academic CV includes research appointments, publications, teaching experience, academic service, presentations, and other professional activities.
