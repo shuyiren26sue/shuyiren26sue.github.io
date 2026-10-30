@@ -19,13 +19,15 @@ Research in wireless communications and decentralized optimization.
 
 **Ph.D. in Computer and Information Engineering**  
 The Chinese University of Hong Kong, Shenzhen  
+Started from September 2018
 Awarded November 2024
 
 Advisor: Prof. Zhi-Quan (Tom) Luo
 
 **B.Sc. in Mathematical Sciences**  
 Tongji University, China  
-2018
+Started from September 2014
+Awarded July 2018
 
 ## Research Expertise
 
