@@ -6,8 +6,13 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-You can also find my articles on [Google Scholar]({{ site.author.googlescholar }}).
+<div class="wordwrap">
+  You can also find my articles on
+  <a href="{{ site.author.googlescholar }}">Google Scholar</a>.
+</div>
 {% endif %}
+
+<p>Publications detected: {{ site.publications | size }}</p>
 
 {% if site.publication_category %}
 
